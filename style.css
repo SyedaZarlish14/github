@@ -1,4 +1,14 @@
-p{
-    color: yellow;
+body{
     background-color: black;
+}
+
+
+
+
+
+h1{
+    color: chartreuse;
+}
+h2{
+    color: rgb(200, 100, 250);
 }
